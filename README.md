@@ -1,2 +1,2 @@
-nama : Dunita Salsabila Assyifa
-npm  : 1923240083
+Nama : Dunita Salsabila Assyifa
+Npm  : 1923240083
